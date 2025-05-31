@@ -1,5 +1,9 @@
 Mini RAT is a lightweight, Python-based remote access tool designed for educational and research purposes. It allows basic remote administration of client machines via a simple graphical user interface (GUI).
 
+
+
+WE CHANGED  FROM EXE TO PY YOU CAN CHECK THE CODE FOR ANY SUSPESION
+
 ✨ Features
 📡 Connect and control multiple clients
 
